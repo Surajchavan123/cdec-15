@@ -11,7 +11,7 @@ spec:
       labels: 
         app: backend-app
     spec:
-      containers:
+      containers: 
         - name:
           image:
           ports:
