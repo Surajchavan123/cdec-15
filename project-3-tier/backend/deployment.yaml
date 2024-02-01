@@ -12,7 +12,7 @@ spec:
         app: backend-app
     spec:
       containers: 
-        - name:
+        - name: backend-ctr
           image:
           ports:
             - containerPort: 8080 
